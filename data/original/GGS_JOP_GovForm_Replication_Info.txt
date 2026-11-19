@@ -1,0 +1,6 @@
+Replication Files
+1) GGS_JOP_GovForm_Replication_Info.txt: this file
+2) GGS_JOP_GovForm_Figures.R: R code to create the figures in the paper. Uses R 2.15.1
+3) GGS_JOP_GovForm_Data_Fig1.csv: Single run data for Figure 1
+4) GGS_JOP_GovForm_Data.csv: Batch simulation data for Tables 1-4 and Figures 2 and 3
+5) GGS_JOP_GovForm_Data_real1: Real-world government formation data to calculate weights to apply to simulation data
